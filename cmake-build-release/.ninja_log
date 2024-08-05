@@ -1,0 +1,7 @@
+# ninja log v6
+14	500	7445278384486751	CMakeFiles/untitled2.dir/sorting_algorithms.cpp.obj	8e7dae407b0e50a
+5	664	7445278384401551	CMakeFiles/untitled2.dir/main.cpp.obj	d1343fd3e3618123
+7	506	7445341980526912	CMakeFiles/untitled2.dir/generator.cpp.obj	643b1fca5ea71ee5
+21	119	7445342580053383	untitled2.exe	bdda4e5d8adf8b8e
+10	740	7445278384446623	CMakeFiles/untitled2.dir/paged_array.cpp.obj	3323e55f6955cb3b
+3	253	7445347293434847	build.ninja	25e12f49237df408

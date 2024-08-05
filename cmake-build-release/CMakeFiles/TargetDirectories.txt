@@ -1,0 +1,4 @@
+C:/Users/snipe/CLionProjects/untitled2/cmake-build-release/CMakeFiles/untitled2.dir
+C:/Users/snipe/CLionProjects/untitled2/cmake-build-release/CMakeFiles/generator.dir
+C:/Users/snipe/CLionProjects/untitled2/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/snipe/CLionProjects/untitled2/cmake-build-release/CMakeFiles/rebuild_cache.dir
